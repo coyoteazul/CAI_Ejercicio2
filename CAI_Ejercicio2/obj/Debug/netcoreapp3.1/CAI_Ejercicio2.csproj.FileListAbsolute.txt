@@ -1,0 +1,13 @@
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.csprojAssemblyReference.cache
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.AssemblyInfoInputs.cache
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.AssemblyInfo.cs
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\bin\Debug\netcoreapp3.1\CAI_Ejercicio2.exe
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\bin\Debug\netcoreapp3.1\CAI_Ejercicio2.deps.json
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\bin\Debug\netcoreapp3.1\CAI_Ejercicio2.runtimeconfig.json
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\bin\Debug\netcoreapp3.1\CAI_Ejercicio2.runtimeconfig.dev.json
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\bin\Debug\netcoreapp3.1\CAI_Ejercicio2.dll
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\bin\Debug\netcoreapp3.1\CAI_Ejercicio2.pdb
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.dll
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.pdb
+D:\Github\CAI-2021-1C\CAI_Ejercicio2\CAI_Ejercicio2\obj\Debug\netcoreapp3.1\CAI_Ejercicio2.genruntimeconfig.cache
